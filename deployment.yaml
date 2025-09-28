@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: ngargo
-        image: docker.io/giriraj789/informatica:v2
+        image: docker.io/giriraj789/informatica:v1
         ports:
         - containerPort: 80
           name: http-v1
